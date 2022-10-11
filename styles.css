@@ -17,7 +17,7 @@ textarea{
     padding: 2%;
     text-align: center;
 }
-#output{
+#text-output{
     border: 1px solid black;
     height: 5vh;
     width: 80%;
@@ -29,9 +29,9 @@ textarea{
 .nav {
     text-align: center;
 }
-#btn-translate{
+#interpret-btn{
     display:block;
-    margin: 1% 20% 1% 45%;
+    margin: 1% 20% 1% 46%;
     padding: 0.5%;
     background-color:var(--primary-color);
     font-family: 'Satisfy', cursive;
@@ -47,4 +47,9 @@ textarea{
 .foot-head{
     font-size: large;
     display: block;
+}
+.image{
+    width: 200px;
+    height: 100px;
+    border-radius: 3rem;
 }
